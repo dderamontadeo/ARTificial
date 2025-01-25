@@ -1,0 +1,317 @@
+[
+    {
+        "id": "1",
+        "title": "Un motivo",
+        "artist": "Apango Quintero Alberto Aldair",
+        "description": "Escena de un zorro espiritual que interroga a una mujer joven con cabello blanco y banditas en el brazo que está sentada triste y con desesperanza realizando un acto de introspección mientras mira las ruinas de una ciudad durante el atardecer.",
+        "image": "/obras/1.webp",
+        "prompt": "Genera imágenes de una niña con cabello blanco sentada de perfil en un acantilado viendo a lo lejos con añoranza las ruinas de una enorme ciudad destruida, tiene un gesto de dolor y desesperanza, su cabello le cubre los ojos, tiene la cabeza inclinada al suelo, tiene un curitas en el brazo, al lado tiene una mochila, al otro lado lado hay un zorro nocturno, fantasmagórico, etereo, sentado hablando con la niña. Atardecer con el cielo morado y rojo. Mood emotivo, introspectivo, frágil, nostálgico, desesperanzador.",
+        "tools": "DALLE, Leonardo canvas y BigJPG"
+    },
+    {
+        "id": "2",
+        "title": "Ecos del Sahara: La ciudad de arcilla",
+        "artist": "Aragón García Eva Grisel",
+        "description": "En el corazón del desierto árido, donde el sol arde sin piedad, se encuentra una antigua ciudad construida con arcilla endurecida por el sol. Sus murallas, marcadas con susurros del tiempo, desafían a los elementos. Estrechas callejuelas serpentean por las calles laberínticas, conduciendo a patios ocultos. En el centro de esta ciudad terrosa, deambula un joven bereber llamado Malik. Su túnica se agita en la brisa caliente, un contraste vívido contra los tonos terracota.  La iluminación cinematográfica baña la escena: un halo dorado alrededor de la silueta de Malik mientras observa el horizonte. Los detalles hiperrealistas emergen: los patrones intrincados en las paredes de la ciudad, los granos de arena bajo sus pies y las grietas en la cerámica antigua. Las reflexiones en el espacio de la pantalla danzan en las superficies pulidas, reflejando el resplandor implacable del sol.  La obra es fotorrealista, inspirada en la antigua ciudad de Ait Ben Haddou, en Marruecos, de manera general, se observa a un joven de espaldas ¾ observando desde lo alto hacia la ciudad, el templo y el sol, en una escena donde está atardeciendo.",
+        "image": "/obras/2.webp",
+        "prompt": "Recreate an old ancient city made of clay in the middle of a desert with a Berber boy with blue clothes. The scene should have cinematic lighting, hyperrealistic details, screen space reflections, and studio lighting. The image should be incredibly detailed and intricate, with features like FKAA, TXAA, and 4K resolution. The overall quality should be at least 2.",
+        "tools": "Microsoft Designer"
+    },
+    {
+        "id": "3",
+        "title": "Una persona una computadora y un mundo de posibilidades",
+        "artist": "Baez Tlaxalo Omar Ignacio",
+        "description": "Una persona cuaquierasiendo capas de crear todo un mundo fantastico a detalle sin la necesidad de contar con un gran equipo, solo de su imaginacion y una computadora gracias a la tecnologia",
+        "image": "/obras/3.webp",
+        "prompt": "a young man sitting at a desk in front of a computer with a matrix forest background",
+        "tools": "Adobe Firefly,Leonardo AI,Microsoft Designer,Foocus"
+    },
+    {
+        "id": "4",
+        "title": "Efecto_mariposa",
+        "artist": "Buendía Conde Luis Gerardo",
+        "description": "Un acto minúsculo puede afectar el curso de eventos trascendentales en el universo. Un concepto complejo para que el Deep Learning lo sintetizara en una ilustración acromática cuadrada. El humano decidirá el color, la textura y proporcionará intención emocional al trazo. Una colaboración donde el objetivo no es ocultar las aportaciones del otro, sino el reflexionar la existencia de vínculos entre la naturaleza y lo artificial.",
+        "image": "/obras/4.webp",
+        "prompt": "Kinetic illustration in black and white of the Butterfly effect",
+        "tools": "NightCafe Studio"
+    },
+    {
+        "id": "5",
+        "title": "Soledad entre pastos y aire",
+        "artist": "Carrillo Mendoza María José",
+        "description": "Imagen realizada por IA que representa la tranquilidad y la soledad representada por el protagonista en medio de este paisaje solitario, tranquilo, pero caótico a la vez, con las olas y el pasto en movimiento por el viento. Representa la forma en que solo nos encontramos con nosotros mismos en medio de nada. ",
+        "image": "/obras/5.webp",
+        "prompt": "Crea una imagen de una meseta con pasto y en la parte de abajo la playa, el mar al horizonte. En la meseta, un hombre parado a la lejanía. Se nota con ambiente de aire, con el pasto, y el mar moviéndose por el viento, al igual que el cabello y la ropa del hombre, Ponle una paleta de tonos apagados, poca saturación y estilo impresionista, similar al estilo de la pintura de El Sol naciente de Monet. ",
+        "tools": "Chat de Bing (GPT-4)"
+    },
+    {
+        "id": "6",
+        "title": "TYKE por Copilot",
+        "artist": "Castañeda Marin Diego Antonio",
+        "description": "Autorretrato de mi avatar dibujando, representando la creación digital a partir de mi idea, la generación de la ia, y por último mis modificaciones.",
+        "image": "/obras/6.webp",
+        "prompt": "Generate a high-contrast 2D indie video game-style illustration resembling a promotional poster. The artwork should feature a skeleton with short horns, one of which is broken, wearing a red plaid shirt with rolled-up sleeves. The skeleton is seated in a dark room, passionately painting on a canvas. Loosely detailed characters surround the skeleton, observing the painting process. The atmosphere should convey mystery and creativity, drawing attention to the skeleton's artistic endeavor amidst the dimly lit surroundings. Utilize pastel tones to infuse softness and depth into the colors, enhancing the overall visual appeal of the promotional poster.",
+        "tools": "Microsoft Designer,DALLE"
+    },
+    {
+        "id": "7",
+        "title": "Tu se' Pagliaccio!",
+        "artist": "Corona Martinez Victor Angel ",
+        "description": "En esta obra quise plasmar los sentimientos de vacío y tristeza, el personaje tiene mirada perdida, sus ojos irritados a punto de llorar  y sus labios sin expresión aparente, una expresión que demuestra la tristeza de nuestro personaje. Tome el recurso de que el personaje sea un payaso pierrot, ya que es uno de los payasos que te generan un cierto sentimiento de tristeza y otra función del porqué es que es una de las mejores formas de plasmar  y representar a esas personas las cuales al estar sintiendo emociones similares como las del personaje fingen bajo el maquillaje y “actúan mientras son presa del delirio”.  Esta obra está  inspirada en la ópera Pagliacci de Ruggero Leoncavallo, más específicamente en uno de los extractos famosos llamado “Vesti la giubba” en donde Canio es llenado de demasiadas emociones negativas, las cuales lo destrozan y como en la obra se viste de payaso y sale a actuarle al público.",
+        "image": "/obras/7.webp",
+        "prompt": "With an artistic style on canvas with a little paste art, a sad pierrot clown is represented dressed in an old 19th century costume, white with black buttons and a white pointed hat with short, well-groomed brown hair with an almost destroyed face, on the verge of tears. On his painted face, in white colors, his lips curved and his eyes watery. The clown tries to perform in front of an audience but cannot.on a stage with cold colors. As you watch the scene, the clown catches your attention.",
+        "tools": "Leonardo AI"
+    },
+    {
+        "id": "8",
+        "title": "Burbujas de Sakura",
+        "artist": "Cuanalo Zepeda Alejandro",
+        "description": " \"\"Burbujas de Sakura\"\" evoca una imagen delicada y caprichosa, combinando la belleza de las flores de cerezo con la ligereza de las burbujas. Es una vista encantadora y efímera. Estas burbujas flotan en el aire con una gracia etérea. Son esferas translúcidas que reflejan la luz del sol con tonos rosados y blancos, como si cada burbuja fuera una pequeña cápsula de la primavera misma. Cuando se desplazan por el aire, su movimiento es suave y casi hipnótico…",
+        "image": "/obras/8.webp",
+        "prompt": "future laying, poppy flowers cyber future,70s flowers botanical garden retro, futuristic, realism, divine, high quality, fine detail, perfection 8k, glow, glowing, highlighter sparkle, Art Nouveau inspired patterns, digital grid landscapes accented with natural forms, neon-like outline effects reminiscent of stained glass, white background, high contrast for easy coloring, visual clarity double exposure, glossy glass apple, (translucent glass figure of an apple) (sea inside) lifeless, dead, glass apple, earthy colors, decadence, intricate design, hyper realistic, high definition, extremely detailed, dark softbox image, raytracing, cinematic, HDR,In the inky blackness of space, the silhouette of a solitary astronaut floating, Seamless patterns, fabric art, Art station, stary night many colorful detailed Design combining flower and leaf, splash arts, aesthetic\n",
+        "tools": "Stable Difussion,Midjourney,DALLE,Leonardo AI"
+    },
+    {
+        "id": "9",
+        "title": "Quiero irme a casa",
+        "artist": "De la Cruz Alvarado Isaura",
+        "description": "Todo empieza con querer expresar aquellas situaciones en las que a pesar de estar con amigos y/o con más personas hay un sentimiento de ansiedad y hasta tristeza en la que en lugar de disfrutar el momento sólo se quiere salir huyendo a casa y no volver a salir incluso en meses; en esos momentos incluso se llega a pensar en no volver a salir nunca.",
+        "image": "/obras/9.webp",
+        "prompt": "Una mujer melancólica con una copa de vino sentada en una mesa que tiene otras bebidas en ella, entre un grupo de sombras difusas que se divierten.",
+        "tools": "Adobe Firefly,Foocus,Leonardo AI,Microsoft Designer"
+    },
+    {
+        "id": "10",
+        "title": "El abrazo en la memoria",
+        "artist": "Domínguez de la Cruz Josefina ",
+        "description": "En esta obra quise representar uno de los momentos más cruciales, complicados y largos que he vivido, demostrando el sentimiento de la pérdida y como el proceso de abrazar a la muerte siendo parte de los seres vivos representa un desafío complejo y catártico de alguna manera, que tiene como final la calma. Para lograr este objetivo de una buena manera utilicé las flores “nomeolvides”, como medio para mostrar a la memoria, el recuerdo, y la nostalgia, también el color azul que en muchas culturas nos simboliza la tristeza y el luto, por último, pero no menos importante tenemos un esqueleto que manifiesta la presencia de la muerte y un pequeño conejo blanco que representa con su color a la inocencia, la pureza y la paz.",
+        "image": "/obras/10.webp",
+        "prompt": "Un esqueleto humano, anatomicamente correcto, que sostenga un conejo blanco completo en sus brazos, que lo esté abrazando, el conejo tenga sus ojos cerrados, que no se vea extraño, de fondo un claroscuro con flores \"\"nomeolvides\"\" de color azul",
+        "tools": "Adobe Firefly"
+    },
+    {
+        "id": "11",
+        "title": "Nace una idea",
+        "artist": "García Rodríguez Carlos Arturo, Sánchez Sánchez Uriel, Sánchez Loeza Renato",
+        "description": "La obra refleja como en la cotidianidad qué imagine en un aspecto comic-manga en blanco y negro, se vive al día y muchas veces en monotonía, pero cuando surge una idea, esta llega de la nada y en pleno blanco y negro, colorea la vida y hace que nuestra mente explote, los colores representan las ideas instantáneas qué surgen y nos aceleran el corazón. ",
+        "image": "/obras/11.webp",
+        "prompt": "En un cómic art en blanco y negro, emerge una obra maestra. En una concurrida calle, un joven cansado, vestido elegantemente con una mochila y audifobnos, muestra sorpresa y una explosión de colores en su cabeza, aludiendo a una explosión de imaginación, mientras camina entre mucha gente caminando a su alrededor. Con trazos Pixiv fan box y estilo Makoto Shinkai. que haya notas musicales de colores y cosas de arte, muestra unos paneles del chico caminando cansado",
+        "tools": "Adobe Firefly,Midjourney,Leonardo IA"
+    },
+    {
+        "id": "12",
+        "title": "Sufrir de una persona con síndrome de impostor",
+        "artist": "Garcia Saldaña Liliana",
+        "description": "Esta obra refleja en la cara de la mujer, emociones de frustración, miedo e inseguridad al sentirse no merecedora de las cosas aunque aparenta estar bien y tener éxito.  ",
+        "image": "/obras/12.webp",
+        "prompt": "Genera una imagen de una persona que sufre el síndrome del impostor  ",
+        "tools": "Leonardo AI"
+    },
+    {
+        "id": "13",
+        "title": "Posibilidades.",
+        "artist": "Gaspariano Baez Nayeli",
+        "description": "Mi obra es referencia de una pintura de un autorretrato, es una reflexión del proceso creativo y emocional que tendremos con la IA, es decir como evolucionara las opciones de la creatividad con esta herramienta que sera un trabajo en equipo del ser humano y la máquina (que recopila y transforma millones de referencias y datos que se acumulan todos los días) las posibilidades parecen infinitas e interesantes.",
+        "image": "/obras/13.webp",
+        "prompt": "Generates a steampunk style image of a person lying in bed.\nSe usaron dos imágenes de referencia, que fue un maquillaje que realice para día de muertos y una pintura que era un autorretrato.\n",
+        "tools": "Leonardo AI"
+    },
+    {
+        "id": "14",
+        "title": "Phyllorhiza's Rosy Whispers",
+        "artist": "Guerra Bedolla Eduardo ",
+        "description": "La imagen captura la elegancia de una mujer con una corona de medusa rosa, fusionando los estilos de varios artistas destacados. La figura central irradia serenidad, rodeada por un halo brillante. La corona presenta detalles dorados y patrones intrincados, y la medusa rosa añade una dimensión misteriosa. La composición es perfecta, destacando la armonía entre los elementos. La iluminación natural aporta calidez y realismo, mientras que el fondo submarino sin agua crea un entorno etéreo. En conjunto, la obra logra una representación visual excepcional y mágica",
+        "image": "/obras/14.webp",
+        "prompt": "ImageEnhance: (Processing: RAW format, Black and Pink color scheme, Ghostly jellyfish portrait), (Artists: Android Jones, Januz Miralles, Alex Grey, Marta Nael, W. Zelmer), (Elements: Shiny aura, Gold filigree, Intricate motifs, Organic tracery, Glowing stardust), (Composition: Perfect, Smooth, Sharp focus), (Background: Underwater depth without water, Similar to W. Zelmer's art), (Technical: Hyper-realistic, HD, 35mm photograph, 8K resolution), (Recognition: Masterpiece, Award-winning, Natural light, High detail).\nNegative: (Quality: badv2 - 0.8, badhandv4 - 1.18, bad - 1.3, worst - 1.3), (Attributes: watermark, blurry, cropped), (Content: nsfw - 1.3, cleavage - 1.3)",
+        "tools": "Leonardo IA"
+    },
+    {
+        "id": "15",
+        "title": "Nebulosa Jade",
+        "artist": "Huerta Aguilar Jesús",
+        "description": "Trate de reflejar el significado de la letra de la cancion \"\"Nebulosa Jade\"\" la cual forma parte del álbum Magnolia de la banda española Rufus T. Firefly, esta cancion habla sobre como el autor percibe el amor comparandolo con distintas cosas reales, desde algo encontrado en la naturaleza como algo cosmico e incomprensible. ",
+        "image": "/obras/15.webp",
+        "prompt": "Creación artística inspirada en la canción 'Nebulosa Jade': una escena bajo la luz serena de la Nebulosa Jade, donde se aprecia a una figura dormida en paz y admiración. Flores lisérgicas brotan de sus cicatrices, mientras una sinfonía de notas y resplandores musicales se entrelaza con elementos mágicos. Una representación visual única que capta la esencia profunda de este amor trascendental, donde cada detalle invita a explorar la paz sobrenatural en el centro de la Nebulosa Jade.",
+        "tools": "Adobe Firefly"
+    },
+    {
+        "id": "16",
+        "title": "Expectativa",
+        "artist": "Illescas Hernández José Adahir",
+        "description": "Un viejo granjero observa desde su entorno marginado a una ciudad que se alza en el avance tecnologico. Existe un camino sin pavimentar que lleva a esta gran ciudad que es rodeada por una sequia",
+        "image": "/obras/16.webp",
+        "prompt": "An old man walking on a dusty earth path to a futuristic city, during the rain, mountains and trees, synthwave, warm light. Negative prompt: Sci-fy, cars, streets, highways. Add some dead trees on the left. Make the city more futuristic",
+        "tools": "DALLE"
+    },
+    {
+        "id": "17",
+        "title": "El precio de la ley",
+        "artist": "Lara Limón Raúl",
+        "description": "Una balanza midiendo el valor de una constitución y una pila de oro, comparandolos como iguales. Representando que todo es legal, mientras puedas pagar la multa.",
+        "image": "/obras/17.webp",
+        "prompt": "Un dibujo de una balanza blanca, en estilo conceptualista, del lado izquierdo de la balanza añade un libro de pasta roja, del lado derecho de la balanza añade un lingote de oro, con un fondo obscuro, en una sala grande y vacía",
+        "tools": "DALLE"
+    },
+    {
+        "id": "18",
+        "title": "Adicción inducida ",
+        "artist": "Libreros Casco Jorge Stefan, Marin Alamirra Getsemani ",
+        "description": "La adicción a las redes sociales y el uso del celular y sus consecuencias de \"\"vivir en la nube\"\"",
+        "image": "/obras/18.webp",
+        "prompt": "Generate an image of a 17-year-old teenager holding a cell phone in their right hand. The shot should be from a lateral angle, capturing the teenager in profile. The cell phone they are holding should display an illuminated screen connected to a cloud. Ensure to reflect the characteristic lighting of the cloud connection, creating a distinctive visual effect on the cell phone screen. Capture the scene with a focus on the teenager's interaction with technology and the cloud connection.",
+        "tools": "Stable Difussion,Adobe Firefly,Imagine"
+    },
+    {
+        "id": "19",
+        "title": "La Caída de la Gracia",
+        "artist": "López Lucero Andrea",
+        "description": "Representa el sufrimiento de una mujer joven que fue víctima de su propia belleza,  el velo fino deja entrever sus rasgos, pero también simboliza su aislamiento y pérdida de identidad, el rojo del vestido es la sangre, violencia, sacrificio y muerte, también indica que la mujer fue víctima de una guerra, un asesinato, un suicidio, o una violación. Todo junto transmite melancolía y fatalidad, mostrando la belleza como una maldición.",
+        "image": "/obras/19.webp",
+        "prompt": "Escultura tallada en mármol, de una mujer joven dolosa, con rasgos delicados, su posición es arrodillada , porta un vestido rojo renacentista gótico, con detalles dorados, el vestido tiene un escote en forma de cuadrado, mangas largas y holgadas, tiene la cara cabizbaja, cubierta con un velo fino y translúcido, por lo que se puede apreciar su rostro,  representa la caída natural del velo alrededor de la figura, creando líneas suaves que sigan la forma del cuerpo, utiliza efectos de luz que resalten la figura femenina creando un centro de atención. El énfasis en el sufrimiento se refuerza con la elección de la base de mármol, que agrega solemnidad a la escena, de fondo hay esculturas de mármol masculinas.",
+        "tools": "DALLE"
+    },
+    {
+        "id": "20",
+        "title": "Hay alguien observando",
+        "artist": "Luna Rueda Daniela",
+        "description": "“Hay alguien observando” es una obra que pretende jugar con el espectador y le hace preguntarse si es él quien observa o quien es observado. La escena muestra un venado inusual, empezando por su color azul pálido, rápidamente el espectador ve los tentáculos y entre mas recorre su rostro halla una mirada sin vida. La atmosfera es fría y solitaria, mostrando un bosque invernal donde las ramas se extienden sin follaje y el único signo de vida son las flores. Entre rojo y azul hay tensión, ganando el rojo y sugiriendo que en medio de el ambiente fantasmal por tanta presencia de azules y grises hay vitalidad, pero no es cómoda ni una señal esperanzadora. El propósito de la obra es mostrar una escena de fantasía oscura donde monstruos habitan en la naturaleza y están al alcance de la vista, me gusta imaginar que el ser humano no es el máximo cazador y que hay seres mas perturbadores resguardados en sitios solitarios y desoladores esperando a que la curiosidad les traiga a su presa. ",
+        "image": "/obras/20.webp",
+        "prompt": "Create an image oh white ice forest, in the foreground create a herd of red deer, in the background create blue flowers and the background create a half-dragon, half-octopus monster that can see the deer from distance",
+        "tools": "Leonardo AI"
+    },
+    {
+        "id": "21",
+        "title": "Amor incondicional",
+        "artist": "Maldonado Pintado Angélica María y Sierra Esquivel Miguel Angel ",
+        "description": "Se trata de representar al amor incondicional desde su mas pura esencia y para esto se toma la imagen de una mujer con un bebé en sus brazos, que muestra toda la ternura e ilusión pero sobre todo la representacion del amor mas puro, aquel que se da de manera incondicional.",
+        "image": "/obras/21.webp",
+        "prompt": "designer.microsoft.com",
+        "tools": "designer.microsoft.com"
+    },
+    {
+        "id": "22",
+        "title": "El  Encuentro de la Niñez y la Inteligencia Artificial",
+        "artist": "Mendoza Almaraz Juan Pablo ",
+        "description": " En la obra \"\"Exploración Infinita\"\", se representa a un niño de aproximadamente 8 años inmerso en un mundo futurista de descubrimientos y asombro ante la inteligencia artificial. El centro de la composición destaca al niño, cuyos ojos brillan con fascinación mientras se encuentra frente a una impresionante pantalla táctil. La pantalla muestra una interfaz gráfica llena de colores vibrantes, símbolos y algoritmos, simbolizando el vasto y emocionante universo de la inteligencia artificial.",
+        "image": "/obras/22.webp",
+        "prompt": "Quiero una imagen que capture la maravilla y la curiosidad de un niño mientras explora el fascinante mundo de la inteligencia artificial. La escena se desarrolla en un entorno futurista, con colores vibrantes y luces suaves que crean un ambiente acogedor y emocionante. En el centro de la imagen, visualizo a un niño de aproximadamente 8 años, con ojos llenos de asombro y una sonrisa de descubrimiento. Está parado frente a una pantalla táctil gigante",
+        "tools": "bing "
+    },
+    {
+        "id": "23",
+        "title": "Resistencia",
+        "artist": "Padilla Meléndez Danna Paola ",
+        "description": "“El arte es resistencia”. Recientemente cumplí 27 años y no me siento más culta; mi actitud y movimientos aún deben de ser cautelosos por su inexperiencia. Sin embargo, por primera vez en muchos años me siento en resistencia; he dejado de fluir con la corriente y desde hace un par de años comencé a caminar en contra del viento, cada paso que doy, tenso y pesado, me hace consciente. Me siento viva y en resistencia y qué mayor acto de resistencia existe que el seguir aprendiendo y creando en medio de un mundo que no quiere que aprendas ni crees. ",
+        "image": "/obras/23.webp",
+        "prompt": "Prompts positivos: Dibujo a bolígrafo negro de una sombra contrastada de algo que no es humano pero tiene una composición geométrica equilibrada ubicada en el centro del lado derecho, en el fondo más figuras geométricas y manchas que crean un efecto de caleidoscopio, estilo vanguardista dadá y con resolución 8k.\nNegativos: Figura humana, profundidad y arte digital.",
+        "tools": "Stable Difussion,DALLE,Microsoft Designer,Adobe Firefly"
+    },
+    {
+        "id": "24",
+        "title": "Natural",
+        "artist": "Peralta Hernández Andrea",
+        "description": "La obra va de la concepto de lo que somos a lo que aspiramos sabiendo que somos uno mismo en todas nuestras etapas bajo la vida en la naturaleza que vamos interpretando, esto dando paso a que no somos los únicos por ese camino y es natural ",
+        "image": "/obras/24.webp",
+        "prompt": "Dos personas viéndose un al otro con estilo sketch a lapicero rojo desde lo atractivo, en un panorama con colores sólidos azules frios en el fondo, con flores envolviendo ambos cuerpos desde abajo hacia arriba armonizando los colores y la estética\n",
+        "tools": "Adobe Firefly"
+    },
+    {
+        "id": "25",
+        "title": "Lucyle en el ocaso",
+        "artist": "Ramirez Sanchez Sonia",
+        "description": "Lucyle en el Ocaso evoca la fusión magistral entre Klimt y Rothko, donde la figura femenina emerge como el fulcro del crepúsculo. El sol coronando su cabeza irradia la transición entre luz y sombra, mientras las líneas danzantes del paisaje la abrazan, simbolizando la interconexión entre la mujer, la naturaleza y la efímera belleza del ocaso.",
+        "image": "/obras/25.webp",
+        "prompt": "Gustav klimt , Rothko , mujer , puesta de sol , tonos rojos azules y dorados",
+        "tools": "Lexica.art"
+    },
+    {
+        "id": "26",
+        "title": "La crueldad de la vida y el amor de la muerte.",
+        "artist": "Rojas González Isis Aolany",
+        "description": "La representación de como la vida puede más cruel que la muerte y como esta última puede ser incluso mejor.",
+        "image": "/obras/26.webp",
+        "prompt": "Crea una imagen dividida en tres partes de forma horizontal donde en la primera parte hay un paisaje apocalíptico, mientras que en el medio hay un paraje de tumbas en paz y a bajo hay un paisaje hermoso.",
+        "tools": "DALLE"
+    },
+    {
+        "id": "27",
+        "title": "Schritte ohne Bedauern",
+        "artist": "Romero Mirón Rodolfo",
+        "description": "El nombre en Español es \"\"Pasos sin Remordimientos\"\".  No refleja la soledad, el agotamiento o cansancio que es el tomar un camino que a la lejanía de la distancia y el tiempo se ve oscuro, melancólico y sin mucho movimiento en camino, porque el punto es volver a empezar y dejar todo atrás porque se refleja que no hay nada conocido de atrás de nuestras experiencias y batallas en el tiempo de nuestra vida, es reflejar que es el acto más humano y de amor hacia nosotros mismos el tomar la decisión de seguir adelante por más que el camino se vea fértil y oscuro, pero aun así seguir caminando con las experiencias que traemos de nuestra historia misma.  La túnica y la figura no refleja más que los colores de una madurez por seguir y sin reflejar remordimientos de tomar nuestras decisiones pasadas que afectan nuestro presente.  La luz de las pocas estrellas es nuestra vista cuando tenemos que volver a empezar desde el principio",
+        "image": "/obras/27.webp",
+        "prompt": "En el desolado paisaje lunar, la oscuridad cubre el terreno estéril, interrumpida solo por el débil resplandor de las estrellas distantes. En medio de esta oscuridad, emerge un solitario habitante de las arenas, su cansada figura envuelta en un manto gris y desgastado, portando las cicatrices de una batalla librada en reinos distantes.\nSu manto, que ondea tras él mientras avanza, oculta su rostro en sombras. Sus manos, envueltas en vendajes improvisados, cuelgan a los costados, testigos de las pruebas que ha soportado.\nAunque su viaje lo ha llevado a través de reinos de turbulencia y lucha, el habitante ahora camina con determinación, su mirada fija en un único punto de luz en medio de la oscuridad: la brillante estrella que llama desde el horizonte lejano. Es un faro de esperanza, una luz guía en el abismo, que lo atrae cada vez más hacia lo desconocido.\nEn este momento solemne, el paisaje desolado es testigo de la búsqueda solitaria del habitante, un testimonio de la resistencia del espíritu humano ante la adversidad. Porque en la oscuridad de la desesperación, encuentra la fuerza para levantarse una vez más, para recorrer el camino de la redención y abrazar el viaje que le espera.\nNegativo:\nEn el desolado paisaje lunar, la oscuridad reina suprema, envolviendo el terreno estéril en un velo opresivo. El débil destello de las estrellas distantes lucha por penetrar la atmósfera densa y sofocante, arrojando sombras débiles sobre las arenas lunares.\nEn medio de este panorama sombrío, emerge una figura solitaria, su forma oculta por la penumbra envolvente. Vestido con un manto gris y desgastado, su atuendo lleva las señales evidentes del desgaste y el deterioro, un testimonio de las pruebas soportadas en la soledad.\nMientras recorre el paisaje desolado, sus pasos flaquean bajo el peso de la soledad y la desesperación. Semienterrada en las arenas cambiantes yace una máscara desechada, sus rasgos distorsionados por el tiempo y el abandono, un recordatorio inquietante de sueños olvidados e ilusiones rotas.\nCon las manos envueltas en vendajes improvisados, el habitante navega el páramo lunar con un sentimiento de resignación, su mirada dirigida hacia abajo, desprovista de esperanza o propósito. En la ausencia de luz, deambula sin rumbo, perdido en la vasta extensión de la oscuridad que se extiende interminablemente ante él.\nEn este reino desolado, no hay consuelo que encontrar, ni faro de esperanza que guíe el camino. Solo los ecos inquietantes del silencio y la soledad acompañan al habitante en su viaje hacia el abismo.",
+        "tools": "Foocus,Microsoft Designer,DALLE"
+    },
+    {
+        "id": "28",
+        "title": "Ansiedad",
+        "artist": "Sanchez Loeza Renato",
+        "description": "Mi obra titulada \"\"Ansiedad\"\" refleja nuestro interior cuando las ideas negativas y el sobrepensamiento nos llevan a lugares oscuros, rebuscados, abrumadores, conflictivos y desalentadores. Pero, al mismo tiempo, resalta de forma sutil la luz que yace dentro de nosotros, la cual debemos tomar y traer al presente.  En esta obra, quise capturar la dualidad que muchos experimentamos en nuestra mente y espíritu. La parte oscura representa esos momentos de angustia y confusión que todos hemos sentido alguna vez. Las formas y colores sombríos simbolizan los pensamientos intrusivos y el caos mental que pueden dominar nuestra percepción.  Sin embargo, \"\"Ansiedad\"\" no se detiene en lo negativo. También quise incorporar elementos que representen la esperanza y la resiliencia. La luz sutil que emerge entre las sombras es un recordatorio de que, a pesar de las dificultades, siempre hay un rayo de esperanza dentro de nosotros. Este destello de luz simboliza la fuerza interna que tenemos para superar los momentos difíciles y encontrar paz en medio de la tormenta. Mi intención es inspirar a quienes contemplen la obra a reconocer y abrazar esa luz interior, llevándola al presente para iluminar su camino.",
+        "image": "/obras/28.webp",
+        "prompt": "Una silueta humana rodeada de espirales y formas abstractas que simbolizan pensamientos desordenados y caóticos, con algunos pensamientos representados por monstruos pequeños y aterradores.",
+        "tools": "Adobe Firefly"
+    },
+    {
+        "id": "29",
+        "title": "Futuro abrasador",
+        "artist": "Sánchez Sánchez Uriel",
+        "description": "En \"\"Futuro Abrasador,\"\" la imagen captura una figura femenina joven de pie en el centro de una calle desolada en una ciudad post-apocalíptica. Con su mirada intensa y fija, refleja una mezcla de cansancio y esperanza. Su cabello rubio, desordenado, está envuelto en llamas que arden con fuerza sin consumirla, simbolizando tanto la destrucción como la renovación. Este fuego, que brota desde su ser, contrasta con el entorno gris y sombrío, iluminando su figura con una luz cálida y poderosa.  La ropa blanca y desgastada de la figura se destaca contra el paisaje oscuro y en ruinas, donde los edificios devastados y las calles vacías cuentan historias de un pasado tumultuoso. En el horizonte, un tenue resplandor del amanecer insinúa la posibilidad de un nuevo comienzo, aunque el camino esté plagado de desafíos. \"\"Futuro Abrasador\"\" es un poderoso reflejo de lucha, esperanza y renovación en un mundo devastado.",
+        "image": "/obras/29.webp",
+        "prompt": "Una figura simbólica femenina, de aspecto joven y determinada, se encuentra en el centro de una calle desolada de una ciudad post-apocalíptica. Su mirada es intensa y fija hacia adelante, con una mezcla de cansancio y esperanza en sus ojos. Su cabello rubio y desordenado parece estar envuelto en llamas que arden con fuerza, pero no la consumen, simbolizando tanto la destrucción como la renovación.",
+        "tools": "Stable Difussion"
+    },
+    {
+        "id": "30",
+        "title": "Feliz armonía.",
+        "artist": "Sandoval Santillán Mariela",
+        "description": "La obra muestra una casa de dos pisos con un gran porche y decorada con detalles que le dan un toque clásico, está rodeada de varios árboles y cuenta con un pequeño cobertizo. Al frente hay un sendero que lleva a un jardín de flores de diferentes especies donde se encuentra un gato negro caminando en armonía con la naturaleza dirigiéndose hacia la entrada de la casa y una cerca de madera que delimita este jardín. La ilustración está en tonos grises que contrastan con la mezcla de tonos brillantes de las flores que rodean al gato con el objetivo de mostrar el dinamismo y la felicidad que el gato, o una mascota en general, añade a la vida de su cuidador, o cuidadores, como si la vida tuviera un poco más de color, conforme avance el gato las flores y demás alrededor irán tomando colores vibrantes hasta llegar a la casa donde finalmente todo se pintara de color gracias a la presencia del felino.",
+        "image": "/obras/30.webp",
+        "prompt": "Una casa rodeada de un paisaje de flores en blanco y negro o tonos grises, y un gato negro que camina en dirección a la entrada de la casa, con una transición de cambio de color, las flores con color solo deben rodear al gato dando a entender que este trae consigo alegría.",
+        "tools": "Adobe Firefly,Microsoft Designer"
+    },
+    {
+        "id": "31",
+        "title": "Juego en mesa",
+        "artist": "Silva Campos Margarita ",
+        "description": "En un espacio minimalista y futurista, dos robots de apariencia humanoide, Alpha y Beta, se encuentran enfrascados en una intensa partida de ajedrez. Sus movimientos precisos y calculados, ejecutados con fluidez mecánica, revelan una profunda inteligencia artificial que supera con creces las capacidades cognitivas humanas. La concentración se refleja en sus miradas fijas en el tablero, donde las piezas de metal pulido brillan bajo la tenue luz ambiental. La ausencia de elementos humanos en la escena es notable, creando una atmósfera distópica donde las máquinas han tomado el control. El tablero de madera, único vestigio del pasado humano, parece fuera de lugar en este entorno dominado por la tecnología. La partida de ajedrez, tradicionalmente un símbolo de la inteligencia y la estrategia humana, ahora se desarrolla entre máquinas, planteando interrogantes sobre el futuro de la humanidad en un mundo cada vez más automatizado. La imagen invita a reflexionar sobre las implicaciones de la inteligencia artificial y su impacto en la sociedad. ",
+        "image": "/obras/31.webp",
+        "prompt": "Dos maquinas inteligentes sentadas con una mesa jugando ajedrez",
+        "tools": "Craiyon"
+    },
+    {
+        "id": "32",
+        "title": "Reflejos del Pasado, Promesas del Futuro. Dualidad humana con IA",
+        "artist": "Soriano Cazabal José Raúl ",
+        "description": "La escena captura la dualidad entre la humanidad y la inteligencia artificial, representando el pasado y el futuro de la interacción entre ambos.En el lado izquierdo de la imagen, la figura de la inteligencia artificial emerge ante un fondo que irradia una luz similar al amanecer, sugiriendo un futuro prometedor y esperanzador. La IA representa la vanguardia tecnológica, avanzando con una fluidez casi etérea y sin las limitaciones físicas del terreno nevado. Sin embargo, está envuelta en una niebla densa que simboliza la incertidumbre y la desconexión entre el presente y el futuro.  En contraposición, en el lado derecho de la imagen, un individuo humano avanza por un sendero nevado. Este personaje encarna el legado humano, con la nieve acumulada simbolizando el peso del pasado, marcado por las decisiones y acciones de la humanidad.  La niebla que separa a los dos sujetos refleja la distancia y la dificultad de comprender completamente el impacto y el potencial de la inteligencia artificial en la vida humana. Mientras la IA representa el futuro tecnológico, el humano lleva consigo el bagaje del pasado, marcando un contraste entre la tradición y el progreso.",
+        "image": "/obras/32.webp",
+        "prompt": "The scene is presented in a surreal landscape captured in an open shot, a long shot, that encompasses the entire scene. On the left side of the image, a human individual walks on a snow-covered path, with each step appearing to be a challenge due to the difficulty of moving forward in the snowy terrain. Snow accumulates around his feet, symbolizing the struggle and burden of the past. This first subject reflects a palpable determination as he attempts to move towards the second subject, seen in the distance.\nOn the right side of the image, in the distance, the figure of the second subject, representing the artificial intelligence, can be distinguished. He is standing in front of a background that radiates a sunrise-like glow, suggesting the promise of something new and hopeful. This glowing background stands out in contrast to the snowy path of the first subject, emphasizing the duality between the difficulty of the past and the hope of the future.\nBoth subjects are separated by a dense fog that spreads across the stage, symbolizing the uncertainty and disconnect between the present and the future. As the human struggles to advance through the snow, his path is obstructed by the traces of his past decisions, which emerge as obstacles in his way. On the other side, the artificial intelligence advances with an almost ethereal fluidity, without the physical limitations of the snowy terrain, but with the possibility of deviating into an uncertain future, represented by the mist that envelops its figure. ",
+        "tools": "Foocus"
+    },
+    {
+        "id": "33",
+        "title": "Tiempos Carmesíes: La Última Caminata",
+        "artist": "Tobon Solis Gonzalo",
+        "description": "En un paisaje desolado y lleno de desesperanza, una imagen captura la esencia del fin de la humanidad. La contaminación reina en abundancia, recordatorio oscuro de la negligencia y codicia que llevaron al colapso. Se observa una figura solitaria que personifica el dolor y la desesperación. Vestida con un manto carmesí, símbolo de la agonía que marcó su destino, camina entre escombros y arena de lo que algún día fue su casa. A su alrededor, ruinas de edificios y ciudades fantasmales yacen en silencio, testigos mudos del desastre ocasionado por las guerras. Vastos desiertos dominan el horizonte, recordando a la humanidad su propia arrogancia y la fragilidad de su existencia en un mundo devastado por su propia mano. Esta obra, creada por inteligencia artificial, combina pintura al óleo, arte digital y fotomontaje. No solo es una representación visual del fin del mundo, sino también un recordatorio de las consecuencias de nuestras acciones y la necesidad de cambiar. En cada detalle, se encuentra la angustia y el pesar de una humanidad, pero también la chispa de esperanza que aún se aferra a un mañana mejor.",
+        "image": "/obras/33.webp",
+        "prompt": "Pintura al óleo, arte digital, fotomontaje. La contaminación es abundante. El fin lo\nha provocado el mismo humano. En medio de este escenario desolado, hay una figura\nsolitaria caminando entre los escombros y la arena. Es una persona adulta vestida de color\ncarmesí que representa la desesperación y la perdida. Un mundo postapocalíptico, el contraste es\ngris, triste y muy aterrador. La tierra se ha convertido en ruinas, edificios derrumbados,\nciudades destruidas, sin vida, con vastos desiertos dominando el paisaje.",
+        "tools": "Leonardo AI,Craiyon,Foocus,Microsoft Designer"
+    },
+    {
+        "id": "34",
+        "title": "Inteligencias que plasman",
+        "artist": "Villegas Toledo Alondra",
+        "description": "Un androide que representa a una inteligencia artificial pintando a una mujer humana en un lienzo.",
+        "image": "/obras/34.webp",
+        "prompt": "Un androide plasmando a una mujer en un lienzo",
+        "tools": "DALLE"
+    },
+    {
+        "id": "35",
+        "title": "Perversión simbiótica",
+        "artist": "Vivanco Campos Gael",
+        "description": "Un científico destinado a crear un simbionte para evolucionar el ser termina engullido por su creación tras un enorme accidente",
+        "image": "/obras/35.webp",
+        "prompt": "Scientist sitting consumed by a giant parasite, the body is destroyed, the face is covered with a look of anger, he has a dirty and torn laboratory coat, behind him appears the body of a leech with black and intense red colors, his face is just teeth, and the stage is a destroyed plane combined with tentacles of flesh that crawl on the ground like veins, the stage is lush with many metal parts of the destroyed plane on the ground, parts of trees, plants and other things like garbage are scattered",
+        "tools": "Leonardo AI"
+    }
+]
