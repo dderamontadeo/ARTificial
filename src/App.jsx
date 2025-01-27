@@ -61,8 +61,18 @@ const App = () => {
         <h1 className="text-4xl font-bold text-purple-100">
           ARTificial
         </h1>
-        <p className="text-purple-200 mt-2 text-lg">
-          <strong>Comite Organizador:</strong>  Diego de Ramón Tadeo, Massiel Itzel Ballesteros Victoria, , Daniela Luna Rueda, Araceli Alejandra Galicia Sánchez, César Chávez Rosas,  Jesús Daniel Guevara de Ita, Renato Sanchez Loeza
+        <p className="text-purple-200 mt-2 text-justify">
+        La presente propuesta aborda la Inteligencia Artificial desde la conciencia y reflexión de su uso. Detrás de cada obra está la experimentación de los estudiantes de la Facultad de Ciencias de la Computación y la Escuela de Artes Plásticas Plásticas y Audiovisuales que participaron en el proyecto “Curso Taller Arte con Inteligencia Artificial” desarrollado en los periodos Otoño 2023 y Primavera 2024.
+        Durante su estancia en el proyecto aprendieron a usar la herramienta al mismo tiempo que participaron en el debate que implica su implementación en la creación de imágenes. Las obras que veras a continuación son resultado de un proceso creativo que simplifica múltiples paso de creación, pero ten en cuenta que no lo resuelve todo y requiere un planteamiento conceptual propio.   
+        Los estudiantes generaron una propuesta donde eligieron un tema que les inspirara repitiendo y registrando los pasos que fueron necesarios para lograr su imagen, mientras exploraban las posibilidades compositivas que estaban a su alcance influenciados por los conocimientos artísticos que se compartieron en el proyecto.  
+        La Inteligencia Artificial es una tecnología que simboliza un cambio en la sensibilidad del ser humano que continuara desarrollándose e impactara la forma que se entiende y hace arte, guste o no, es un medio que prevalecerá a largo plazo.
+        Entre mejor lo comprendamos será posible definirlo estableciendo términos y condiciones para salvaguardar el valor de la creación y creatividad como cualidades fundamentales en el desarrollo humano. 
+        </p>
+        <p className="text-purple-200 mt-2 text-center">
+          <strong>Comite Organizador:</strong>  Diego de Ramón Tadeo, Massiel Itzel Ballesteros Victoria, Daniela Luna Rueda, Araceli Alejandra Galicia Sánchez, César Chávez Rosas,  Jesús Daniel Guevara de Ita, Renato Sanchez Loeza.
+        </p>
+        <p className="text-purple-200 mt-2 text-center">
+          <strong>Modelado:</strong> Renato Sanchez Loeza
         </p>
         <a href="/galeria3d/">
             <Button className="mt-4 bg-purple-600 hover:bg-purple-500 text-white px-6 py-2 rounded-lg transition-colors">
@@ -72,14 +82,14 @@ const App = () => {
         </div>
       </section>
 
-      {/* Main Content - Gallery Grid */}
+      {/* Main Content*/}
       <main className="pt-4 pb-12 px-4">
         {error && (
           <div className="text-red-400 text-center mb-4">
-            Note: Using fallback data. {error}
+            Nota: Usando informacion de respaldo. {error}
           </div>
         )}
-        {/* Gallery Grid - One artwork at a time */}
+        {/* Gallery Grid */}
         <div className="grid grid-cols-1 gap-8 w-full">
           {artworks.map((artwork) => (
             <Card
@@ -87,7 +97,7 @@ const App = () => {
               className="bg-purple-900/30 border-purple-700 hover:bg-purple-800/30 transition-all duration-300 w-full"
             >
               <div className="flex flex-col lg:flex-row w-full">
-                {/* Image Container - Now preserves aspect ratio */}
+                {/* Image Container*/}
                 <div className="lg:w-1/2 flex items-center justify-center p-4">
                   <div className="w-full h-full flex items-center justify-center">
                     <img
@@ -107,10 +117,10 @@ const App = () => {
                   <CardContent>
                     <div className="space-y-2">
                       <h3 className="text-purple-200 font-semibold">Descripción:</h3>
-                      <p className="text-purple-300">{artwork.description}</p>
+                      <p className="text-purple-300 text-justify">{artwork.description}</p>
                       <div className="mt-4">
                         <h3 className="text-purple-200 font-semibold">Prompt:</h3>
-                        <p className="text-purple-300">{artwork.prompt}</p>
+                        <p className="text-purple-300 text-justify">{artwork.prompt}</p>
                       </div>
                       <div className="mt-2">
                         <h3 className="text-purple-200 font-semibold">Herramienta:</h3>
