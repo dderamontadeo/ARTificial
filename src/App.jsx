@@ -61,6 +61,9 @@ const App = () => {
         <h1 className="text-4xl font-bold text-purple-100">
           ARTificial
         </h1>
+        <p className="text-purple-200 mt-2 text-center">
+          <strong>Exposición colectiva</strong> 
+        </p>
         <p className="text-purple-200 mt-2 text-justify">
         La presente propuesta aborda la Inteligencia Artificial desde la conciencia y reflexión de su uso. Detrás de cada obra está la experimentación de los estudiantes de la Facultad de Ciencias de la Computación y la Escuela de Artes Plásticas Plásticas y Audiovisuales que participaron en el proyecto “Curso Taller Arte con Inteligencia Artificial” desarrollado en los periodos Otoño 2023 y Primavera 2024.
         Durante su estancia en el proyecto aprendieron a usar la herramienta al mismo tiempo que participaron en el debate que implica su implementación en la creación de imágenes. Las obras que veras a continuación son resultado de un proceso creativo que simplifica múltiples paso de creación, pero ten en cuenta que no lo resuelve todo y requiere un planteamiento conceptual propio.   
@@ -73,6 +76,9 @@ const App = () => {
         </p>
         <p className="text-purple-200 mt-2 text-center">
           <strong>Modelado:</strong> Renato Sanchez Loeza
+        </p>
+        <p className="text-purple-200 mt-2 text-center">
+          <strong>Curaduría:</strong> Daniela Luna Rueda
         </p>
         <a href="/galeria3d/">
             <Button className="mt-4 bg-purple-600 hover:bg-purple-500 text-white px-6 py-2 rounded-lg transition-colors">
@@ -138,7 +144,7 @@ const App = () => {
       {/* Footer */}
       <footer className="bg-purple-950/80 backdrop-blur-sm py-6">
         <div className="w-full px-4 text-center text-purple-300">
-          <p>© 2025 dderamontadeo. All rights reserved.</p>
+          <p>© Diego de Ramon Tadeo.</p>
         </div>
       </footer>
     </div>
